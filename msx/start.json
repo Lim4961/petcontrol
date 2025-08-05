@@ -1,5 +1,5 @@
 {
     "name": "My Content",
     "version": "1.0.0",
-    "parameter": "menu:https://{SERVER}/msx/menu.json"
+    "parameter": "menu:https://github.com/Lim4961/petcontrol/blob/main/msx/menu.json"
 }
