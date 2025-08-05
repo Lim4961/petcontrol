@@ -1,0 +1,24 @@
+{
+    "headline": "My AudioContent",
+    "menu": [{
+            "icon": "music-note",
+            "label": "My Audios",
+            "data": {
+                "type": "pages",
+                "template": {                   
+                    "type": "separate",
+                    "layout": "0,0,2,3",
+                    "icon": "msx-white-soft:music-note",
+                    "color": "msx-glass"
+                },
+                "items": [{
+                        "title": "야.쓰읍",
+                        "url": "audio/야.쓰읍.m4a"
+                        },
+                        {
+                          "title": "야.조용히해",
+                          "url": "audio/야.조용히.해.m4a"
+                        }]
+            }
+        }]
+}
